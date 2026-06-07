@@ -36,4 +36,4 @@ Kho lưu trữ mã nguồn bao gồm các thành phần chính sau:
 ├── node/
 │   ├── app.js            # Mã nguồn chạy suy luận bằng dòng lệnh qua Node.js
 │   └── package.json      # Khai báo các thư viện phụ thuộc của môi trường Node
-└── README.md             # Tài liệu hướng dẫn dự án (File này)
+└── README.md             # Tài liệu hướng dẫn dự án 
